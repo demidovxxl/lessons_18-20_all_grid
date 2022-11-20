@@ -1493,7 +1493,7 @@ h6 {
   gap: 30px;
 }
 
-.arrows-block {
+.top-block__arrows {
   display: -ms-grid;
   display: grid;
   grid-auto-flow: column;
@@ -2805,7 +2805,6 @@ h6 {
   }
 
   .top-block__arrows {
-    grid-auto-flow: row;
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: end;
