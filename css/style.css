@@ -2048,14 +2048,10 @@ h6 {
   background-color: #787a80;
 }
 
-.no-webp .subscribe-block{
-  background: url("../img/illustration_bg.png") 0% 100% no-repeat, url("../img/illustration_bg.png") 100% 100% no-repeat, -o-linear-gradient(34.05deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%); }
-
-.no-webp .subscribe-block{
-  background: url("../img/illustration_bg.png") 0% 100% no-repeat, url("../img/illustration_bg.png") 100% 100% no-repeat, linear-gradient(55.95deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%); }
-
 .subscribe-block {
   padding: 120px 0 180px 0;
+  background: url("../img/illustration_bg.svg") 0% 100% no-repeat, url("../img/illustration_bg.svg") 100% 100% no-repeat, -o-linear-gradient(34.05deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%);
+  background: url("../img/illustration_bg.svg") 0% 100% no-repeat, url("../img/illustration_bg.svg") 100% 100% no-repeat, linear-gradient(55.95deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%);
 }
 
 .subscribe-block__block-title {
@@ -3341,7 +3337,3 @@ h6 {
     cursor: default;
   }
 }
-
-.webp .subscribe-block{ background: url(../img/illustration_bg.webp) 0% 100% no-repeat, url(../img/illustration_bg.webp) 100% 100% no-repeat, -o-linear-gradient(34.05deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%); }
-
-.webp .subscribe-block{ background: url(../img/illustration_bg.webp) 0% 100% no-repeat, url(../img/illustration_bg.webp) 100% 100% no-repeat, linear-gradient(55.95deg, rgba(255, 64, 58, 0.2) 0%, rgba(245, 93, 5, 0.2) 100%); }
